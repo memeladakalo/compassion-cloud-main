@@ -60,7 +60,10 @@ No Bootstrap, Tailwind, React, or backend framework is used. This is a front-end
 
 The site will run at:  
 **http://localhost:5500**
-YouTube Linke to PowerPoint Presentation: **https://youtu.be/Smow0cRn1-0**
+
+Demonstration Video at: https://youtu.be/JnUtaE22_yQ
+
+YouTube Link to PowerPoint Presentation: https://youtu.be/Smow0cRn1-0
 
 ## Deployment
 
